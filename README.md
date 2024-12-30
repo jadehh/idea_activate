@@ -1,8 +1,8 @@
 ## win版本支持2021.2-2024
 
-[win版下载地址]()
+[win版下载地址](https://github.com/jadehh/idea_activate/releases/download/V1.0.2/win2021-2024.Win.rar)
 
-[Mac版下载地址]()
+[Mac版下载地址](https://github.com/jadehh/idea_activate/releases/download/V1.0.2/macjihuo.Mac.zip)
 
 
 
